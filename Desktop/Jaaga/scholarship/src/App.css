@@ -1,0 +1,47 @@
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+
+.App-header {
+  text-align: center;
+  background-color: #222;
+  height:  150px;
+  padding: 20px;
+  color: white;
+}
+.Scholar-section {
+  display: block;
+  margin-top: 150px ;
+
+  height: 100px;
+  padding: 20px;
+  color: black;
+}
+.Scholar-section_h2{
+  font-style: italic;
+  text-align: left;
+  text-indent: 5px;
+
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.qrcode{
+  text-align: right ;
+
+}
+
+.scholar{
+height: 80px;
+
+}
